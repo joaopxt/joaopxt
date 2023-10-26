@@ -5,7 +5,7 @@
 - 📫 How to reach me: peixoto.jvs@gmail.com
 - ⚡ Fun fact: I'm graduated in International Relations :)
 
-## Vamos nos conectar?
+## Let's talk
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-victor-da-silva-peixoto-ba1644164/)
 
