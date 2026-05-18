@@ -1,6 +1,6 @@
 ## Hi there, I'm João Victor 👋
 
-- 🔭 I’m currently working as Frontend Junior Development
+- 🔭 I’m currently working as Mobile Fullstack Engineer
 - ☝️ Open to oportunities 
 - 🌱 I’m currently learning .NET, React and Vue
 - 📫 How to reach me: peixoto.jvs@gmail.com
